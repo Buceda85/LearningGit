@@ -1,15 +1,15 @@
 # Hello world!
-This will be my first file on GitHub.
+-This will be my first file on GitHub.
 
-## Hello world
-I changed the sentence.
+### Hello world
+-I changed the sentence.
 
-# my-github-repo
-I will test my Git knowledge on this repo.
-I have added new text into this file.
+## my-github-repo
+-I will test my Git knowledge on this repo.
+-I have added new text into this file.
 
-# Toto jsou dva nové řádky pro cvičení
-Přidávám dva řádky texu, jak bylo požadováno.
+### Toto jsou dva nové řádky pro cvičení
+-Přidávám dva řádky texu, jak bylo požadováno.
 
-# Vytvoříme konflikt přidáním řádku
-A tady řádek zase vyřešíme
+## Vytvoříme konflikt přidáním řádku
+-A tady řádek zase vyřešíme
