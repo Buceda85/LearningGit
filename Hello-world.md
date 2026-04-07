@@ -12,4 +12,4 @@ I have added new text into this file.
 Přidávám dva řádky texu, jak bylo požadováno.
 
 # Vytvoříme konflikt přidáním řádku
-Muhahahaha
+A tady řádek zase vyřešíme
