@@ -10,3 +10,6 @@ I have added new text into this file.
 
 # Toto jsou dva nové řádky pro cvičení
 Přidávám dva řádky texu, jak bylo požadováno.
+
+# Tady bude konfliktní řádek
+Nenenenene
